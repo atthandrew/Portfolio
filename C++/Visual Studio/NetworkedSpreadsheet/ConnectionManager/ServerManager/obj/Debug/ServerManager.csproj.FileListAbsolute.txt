@@ -1,0 +1,41 @@
+C:\Users\muloc\source\repos\ServerManager\ServerManager\bin\Debug\ServerManager.exe.config
+C:\Users\muloc\source\repos\ServerManager\ServerManager\bin\Debug\ServerManager.exe
+C:\Users\muloc\source\repos\ServerManager\ServerManager\bin\Debug\ServerManager.pdb
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.csprojAssemblyReference.cache
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.Main.resources
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.Properties.Resources.resources
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.GenerateResource.cache
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.CoreCompileInputs.cache
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.exe
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.pdb
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.NewSpreadsheet.resources
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.NewUser.resources
+C:\Users\muloc\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.Connection.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\bin\Debug\ServerManager.exe.config
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\bin\Debug\ServerManager.exe
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\bin\Debug\ServerManager.pdb
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.csprojAssemblyReference.cache
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.Connection.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.Main.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.NewSpreadsheet.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.NewUser.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.Properties.Resources.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.csproj.GenerateResource.cache
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.csproj.CoreCompileInputs.cache
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.exe
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.pdb
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\bin\Debug\ServerManager.exe.config
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\bin\Debug\ServerManager.exe
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\bin\Debug\ServerManager.pdb
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.csprojAssemblyReference.cache
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.Connection.resources
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.Main.resources
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.NewSpreadsheet.resources
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.NewUser.resources
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.Properties.Resources.resources
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.csproj.GenerateResource.cache
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.csproj.CoreCompileInputs.cache
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.exe
+C:\Users\muloc\Source\Repos\ConnectionManager\ServerManager\obj\Debug\ServerManager.pdb
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.ModifyUser.resources
+C:\Users\muloc\OneDrive\E_College\Junior\CS3505\Team Project\ConnectionManager\ServerManager\obj\Debug\ServerManager.ModifySheet.resources

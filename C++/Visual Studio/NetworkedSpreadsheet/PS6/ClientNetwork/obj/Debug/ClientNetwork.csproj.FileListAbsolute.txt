@@ -1,0 +1,6 @@
+C:\Users\Andrew Thompson\source\repos\finalproject\PS6\ClientNetwork\bin\Debug\ClientNetwork.dll
+C:\Users\Andrew Thompson\source\repos\finalproject\PS6\ClientNetwork\bin\Debug\ClientNetwork.pdb
+C:\Users\Andrew Thompson\source\repos\finalproject\PS6\ClientNetwork\obj\Debug\ClientNetwork.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\source\repos\finalproject\PS6\ClientNetwork\obj\Debug\ClientNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\source\repos\finalproject\PS6\ClientNetwork\obj\Debug\ClientNetwork.dll
+C:\Users\Andrew Thompson\source\repos\finalproject\PS6\ClientNetwork\obj\Debug\ClientNetwork.pdb

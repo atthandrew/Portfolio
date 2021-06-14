@@ -1,0 +1,10 @@
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\bin\Release\Revert.dll
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\bin\Release\Revert.pdb
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\bin\Release\Newtonsoft.Json.dll
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\bin\Release\Newtonsoft.Json.xml
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\obj\Release\Revert.csprojAssemblyReference.cache
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\obj\Release\Revert.csproj.CoreCompileInputs.cache
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\obj\Release\Revert.csproj.CopyComplete
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\obj\Release\Revert.dll
+C:\Users\Chadd\Documents\finalproject\PS6\Revert\obj\Release\Revert.pdb

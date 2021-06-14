@@ -1,0 +1,153 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/socket.h> 
+#include <arpa/inet.h>
+#include <unistd.h>
+#include <netdb.h>
+#include <netinet/in.h>
+#include <string.h>
+#include <pthread.h>
+#include <iostream>
+#include <vector>
+#include <dirent.h>
+#include "include/document.h"
+
+std::vector<std::string> get_spreadsheet_list(){
+  std::vector<std::string> spreadsheet_list;
+  DIR *dir;
+  struct dirent *ent;
+
+  //Gets Saved Files 
+  if ((dir = opendir ("spreadsheets//")) != NULL) 
+    {
+    //Looks at all files in the saved folder
+      while ((ent = readdir (dir)) != NULL) 
+    {
+	  
+    std::string temps = (std::string) ent->d_name;
+    
+    //Pulls only .xml files
+	  if(temps.find(".xml") != std::string::npos && temps.find(".xml~") == std::string::npos)
+	    {	    
+	      spreadsheet_list.push_back(temps);
+        //printf ("%s\n", ent->d_name);
+	    }
+    }
+      closedir (dir);
+    }	
+  else 
+    {
+    //No such files :(
+    return spreadsheet_list;
+  }
+  
+  return spreadsheet_list;
+
+}
+
+void * receive_messages (void * client_socket) {
+    
+    rapidjson::Document user_request;
+    int client;
+    char buffer[1024] = {0}; 
+    client = *((int*)&client_socket);
+    std::cout<< client << std::endl;
+
+    // Grabs a list of Servers and puts it into a Json 
+    std::vector<std::string> list_to_send = get_spreadsheet_list();;
+
+    //Begins our Glorious Json File
+    std::string message_of_servers = "{\n\"type\": \"list\"\n\"spreadsheets\": [";
+    std::string temp;
+
+    //Iterates the vector of strings and adds each file to an "array" of strings 
+    for(int it = 0; it < list_to_send.size(); it++)
+    {
+    temp.append("\"" + (std::string)(list_to_send[it]) + "\"");
+    if (it != list_to_send.size() -1)
+      {
+        temp.append(","); 
+      }
+    }
+    message_of_servers.append(temp);
+    message_of_servers += "]\n}\n\n";
+    std::cout << message_of_servers << std::endl;
+
+    //Sends list of Spreadhsheets
+    send(client , message_of_servers.c_str() , strlen(message_of_servers.c_str()) , 0 ); 
+
+    //Waits for and gets the client to send the desired spreadsheet username and password
+    std::string message_from_client = buffer;
+    std::string newTemp;
+    while (message_from_client.find("\n\n") == std::string::npos)
+    {
+      int valread = recv(client, buffer, 1024, 0); 
+      newTemp = buffer;
+      message_from_client.append(newTemp);
+    }
+    std::cout << message_from_client << std::endl;
+    
+
+    user_request.Parse(message_from_client.c_str());
+    std::cout << user_request["name"].GetString() << std::endl;
+    //printf("name = %s\n", user_request["name"].GetString());
+
+    // do a check of the password to ensure its valid
+    // if bad go to A
+    // if new add new user
+    // if password is good then send the spreadsheet an continue communication with clients
+}
+
+
+
+int main( int argc, char *argv[] ) {
+    pthread_t clientThread;
+    int serverSocket, clientSocket, portno;
+    struct sockaddr_in serv_addr, cli_addr;
+    socklen_t clilen;
+    
+    /* First call to socket() function */
+    serverSocket = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
+    
+    if (serverSocket < 0) {
+       perror("ERROR opening socket for the server");
+       exit(1);
+    }
+    
+    /* Initialize socket structure */
+    bzero((char *) &serv_addr, sizeof(serv_addr));
+    portno = 4088;
+    
+    serv_addr.sin_family = AF_INET;
+    serv_addr.sin_addr.s_addr = INADDR_ANY;
+    serv_addr.sin_port = htons(portno);
+    
+    /* Now bind the host address using bind() call.*/
+    if (bind(serverSocket, (struct sockaddr *) &serv_addr, sizeof(serv_addr)) < 0) {
+       perror("ERROR on binding");
+       exit(1);
+    }
+   
+    /* Now start listening for the clients, here
+       * process will go in sleep mode and will wait
+       * for the incoming connection
+    */
+   
+    listen(serverSocket,5);
+    clilen = sizeof(cli_addr);
+   
+    while (1) {
+        clientSocket = accept(serverSocket, (struct sockaddr *) &cli_addr, &clilen);
+		
+        if (clientSocket < 0) {
+           perror("ERROR on accept");
+        }
+        //start multithreading here accordingly
+        pthread_create (&clientThread, NULL, receive_messages, (void *)clientSocket);
+        pthread_detach(clientThread);
+    }
+
+    close(clientSocket);
+    close(serverSocket);
+    return 0;
+}

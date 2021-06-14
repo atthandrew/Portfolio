@@ -1,0 +1,2 @@
+C:\Users\Chadd\Documents\finalproject\PS6\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\Chadd\Documents\finalproject\PS6\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache

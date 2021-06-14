@@ -1,0 +1,10 @@
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\bin\Release\FullSend.dll
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\bin\Release\FullSend.pdb
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\bin\Release\Newtonsoft.Json.dll
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\bin\Release\Newtonsoft.Json.xml
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\obj\Release\FullSend.csprojAssemblyReference.cache
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\obj\Release\FullSend.csproj.CoreCompileInputs.cache
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\obj\Release\FullSend.csproj.CopyComplete
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\obj\Release\FullSend.dll
+C:\Users\Chadd\Documents\finalproject\PS6\FullSend\obj\Release\FullSend.pdb

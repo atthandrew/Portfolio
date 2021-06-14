@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{319B334D-DDFC-4D5E-9D38-3894ACD4B1C5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClientNetwork</RootNamespace>
+    <AssemblyName>ClientNetwork</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Edit\Edit.csproj">
+      <Project>{d53297e1-e815-4495-9430-8d6302031d94}</Project>
+      <Name>Edit</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Error\Error.csproj">
+      <Project>{4429cef2-8d16-403d-ba1e-4a802a618c60}</Project>
+      <Name>Error</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FullSend\FullSend.csproj">
+      <Project>{c45978eb-3a14-44e0-aa1f-2ef44236c886}</Project>
+      <Name>FullSend</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Network\NetworkController.csproj">
+      <Project>{eb003d79-4e9c-4082-8bf4-2834ba93b460}</Project>
+      <Name>NetworkController</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Open\OpenMessage.csproj">
+      <Project>{688eb3d4-a349-4ea2-92ca-992ce2d06e94}</Project>
+      <Name>OpenMessage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Revert\Revert.csproj">
+      <Project>{aaf90617-878b-4025-996f-3d2e84547e3f}</Project>
+      <Name>Revert</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SpreadsheetList\SpreadsheetList.csproj">
+      <Project>{98A322A5-4894-4800-B3D1-8DDA9BE26009}</Project>
+      <Name>SpreadsheetList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Undo\Undo.csproj">
+      <Project>{cf6410a3-f67b-47ba-86b0-941abbe2d423}</Project>
+      <Name>Undo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

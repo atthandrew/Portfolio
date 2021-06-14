@@ -1,0 +1,10 @@
+C:\Users\Chadd\Documents\finalproject\PS6\Open\bin\Release\Open.dll
+C:\Users\Chadd\Documents\finalproject\PS6\Open\bin\Release\Open.pdb
+C:\Users\Chadd\Documents\finalproject\PS6\Open\bin\Release\Newtonsoft.Json.dll
+C:\Users\Chadd\Documents\finalproject\PS6\Open\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Chadd\Documents\finalproject\PS6\Open\bin\Release\Newtonsoft.Json.xml
+C:\Users\Chadd\Documents\finalproject\PS6\Open\obj\Release\OpenMessage.csprojAssemblyReference.cache
+C:\Users\Chadd\Documents\finalproject\PS6\Open\obj\Release\OpenMessage.csproj.CoreCompileInputs.cache
+C:\Users\Chadd\Documents\finalproject\PS6\Open\obj\Release\OpenMessage.csproj.CopyComplete
+C:\Users\Chadd\Documents\finalproject\PS6\Open\obj\Release\Open.dll
+C:\Users\Chadd\Documents\finalproject\PS6\Open\obj\Release\Open.pdb

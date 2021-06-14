@@ -1,0 +1,23 @@
+<spreadsheet version="ps6">
+	<cell>
+		<name>A1</name>
+		<contents>hello</contents>
+	</cell>
+	<cell>
+		<name>B1</name>
+		<contents>world</contents>
+	</cell>
+	<cell>
+		<name>C1</name>
+		<contents>hello there</contents>
+	</cell>
+	<cell>
+		<name>D1</name>
+		<contents>goodbye</contents>
+	</cell>
+	<cell>
+		<name>E1</name>
+		<contents>cheese</contents>
+	</cell>
+</spreadsheet>
+

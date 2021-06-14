@@ -1,0 +1,5 @@
+C:\Users\Andrew Thompson\Source\Repos\u0879848\PS6\UITests\bin\Debug\UITests.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\PS6\UITests\bin\Debug\UITests.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\PS6\UITests\obj\Debug\UITests.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\PS6\UITests\obj\Debug\UITests.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\PS6\UITests\obj\Debug\UITests.pdb
