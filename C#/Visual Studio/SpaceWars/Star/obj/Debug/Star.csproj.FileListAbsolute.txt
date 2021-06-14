@@ -1,0 +1,12 @@
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Star.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Star.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Vector2D.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Vector2D.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Debug\Star.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Debug\Star.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Debug\Star.csproj.CopyComplete
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Debug\Star.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Debug\Star.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\bin\Debug\Newtonsoft.Json.pdb

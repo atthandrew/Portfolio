@@ -1,0 +1,12 @@
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Ship.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Ship.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Vector2D.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Vector2D.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Debug\Ship.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Debug\Ship.csproj.CopyComplete
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Debug\Ship.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Debug\Ship.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\bin\Debug\Newtonsoft.Json.pdb

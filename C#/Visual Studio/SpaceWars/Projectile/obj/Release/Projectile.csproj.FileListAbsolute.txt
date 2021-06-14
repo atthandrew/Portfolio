@@ -1,0 +1,11 @@
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Release\Projectile.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Release\Projectile.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Release\Vector2D.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Release\Vector2D.pdb
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Release\Projectile.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Release\Projectile.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Release\Projectile.csproj.CopyComplete
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Release\Projectile.dll
+C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Release\Projectile.pdb
