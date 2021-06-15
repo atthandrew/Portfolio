@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\andrew thompson\documents\cs4600\hw5\hw5\main.cpp(130): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\andrew thompson\documents\cs4600\hw5\hw5\main.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw5\hw5\main.cpp(189): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\andrew thompson\documents\cs4600\hw5\hw5\main.cpp(190): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\andrew thompson\documents\cs4600\hw5\hw5\main.cpp(191): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\andrew thompson\documents\cs4600\hw5\hw5\main.cpp(192): warning C4305: 'argument': truncation from 'double' to 'const float'
+  005-Raytracing.vcxproj -> C:\Users\Andrew Thompson\Documents\cs4600\HW5\HW5\x64\Debug\005-Raytracing.exe

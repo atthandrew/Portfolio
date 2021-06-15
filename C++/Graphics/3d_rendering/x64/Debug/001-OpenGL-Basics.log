@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(332): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(333): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(335): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(336): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(382): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(386): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andrew thompson\documents\cs4600\hw3\main.cpp(387): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  001-OpenGL-Basics.vcxproj -> C:\Users\Andrew Thompson\Documents\cs4600\HW3\x64\Debug\001-OpenGL-Basics.exe
