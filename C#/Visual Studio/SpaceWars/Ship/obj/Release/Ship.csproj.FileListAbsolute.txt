@@ -9,3 +9,15 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Release\Ship.c
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Release\Ship.csproj.CopyComplete
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Release\Ship.dll
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Ship\obj\Release\Ship.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Ship.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Ship.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Vector2D.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Vector2D.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\obj\Release\Ship.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\obj\Release\Ship.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\obj\Release\Ship.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\obj\Release\Ship.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Ship\obj\Release\Ship.pdb

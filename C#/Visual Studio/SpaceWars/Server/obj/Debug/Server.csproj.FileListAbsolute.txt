@@ -21,3 +21,26 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Server\obj\Debug\Server
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Server\obj\Debug\Server.csproj.CopyComplete
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Server\obj\Debug\Server.exe
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Server\obj\Debug\Server.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Server.exe.config
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Server.exe
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Server.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Network.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Projectile.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Ship.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Star.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Vector2D.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\World.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Network.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Projectile.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Ship.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Star.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Vector2D.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\World.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\obj\Debug\Server.exe
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Server\obj\Debug\Server.pdb

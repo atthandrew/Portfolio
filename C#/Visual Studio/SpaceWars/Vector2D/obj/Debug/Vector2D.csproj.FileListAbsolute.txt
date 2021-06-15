@@ -8,3 +8,13 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Vector2D\obj\Debug\Vect
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Vector2D\obj\Debug\Vector2D.dll
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Vector2D\obj\Debug\Vector2D.pdb
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\bin\Debug\Vector2D.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\bin\Debug\Vector2D.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\obj\Debug\Vector2D.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\obj\Debug\Vector2D.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\obj\Debug\Vector2D.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\obj\Debug\Vector2D.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Vector2D\obj\Debug\Vector2D.pdb

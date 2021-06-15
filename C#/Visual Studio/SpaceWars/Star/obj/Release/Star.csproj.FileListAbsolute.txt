@@ -9,3 +9,15 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Release\Star.c
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Release\Star.csproj.CopyComplete
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Release\Star.dll
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Star\obj\Release\Star.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Star.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Star.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Vector2D.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Vector2D.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\obj\Release\Star.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\obj\Release\Star.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\obj\Release\Star.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\obj\Release\Star.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Star\obj\Release\Star.pdb

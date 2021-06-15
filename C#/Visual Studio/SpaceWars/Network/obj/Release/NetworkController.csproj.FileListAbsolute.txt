@@ -7,3 +7,13 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Network\obj\Release\Net
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Network\obj\Release\NetworkController.csproj.CopyComplete
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Network\obj\Release\Network.dll
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Network\obj\Release\Network.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Release\Network.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Release\Network.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Release\NetworkController.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Release\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Release\NetworkController.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Release\Network.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Release\Network.pdb

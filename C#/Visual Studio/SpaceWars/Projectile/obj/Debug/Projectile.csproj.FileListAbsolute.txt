@@ -10,3 +10,15 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Debug\Pr
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Debug\Projectile.dll
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\obj\Debug\Projectile.pdb
 C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Projectile\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Projectile.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Projectile.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Vector2D.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Vector2D.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\obj\Debug\Projectile.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\obj\Debug\Projectile.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\obj\Debug\Projectile.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\obj\Debug\Projectile.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Projectile\obj\Debug\Projectile.pdb

@@ -10,3 +10,13 @@ C:\Users\Andrew Thompson\Source\Repos\u0879848\SpaceWars\Network\bin\Debug\Newto
 C:\Users\Andrew Thompson\source\repos\u0879848\SpaceWars\Network\bin\Debug\SpreadsheetList.dll
 C:\Users\Andrew Thompson\source\repos\u0879848\SpaceWars\Network\bin\Debug\SpreadsheetList.pdb
 C:\Users\Andrew Thompson\source\repos\u0879848\SpaceWars\Network\obj\Debug\NetworkController.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Debug\Network.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Debug\Network.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Debug\NetworkController.csprojAssemblyReference.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Debug\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Debug\NetworkController.csproj.CopyComplete
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Debug\Network.dll
+C:\Users\Andrew Thompson\Documents\GitHub\Portfolio\C#\Visual Studio\SpaceWars\Network\obj\Debug\Network.pdb
