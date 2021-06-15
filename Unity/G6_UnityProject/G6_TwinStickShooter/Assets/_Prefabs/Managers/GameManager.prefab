@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5220675838522712016
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5220675838522712022}
+  - component: {fileID: 5220675838522712023}
+  - component: {fileID: 5220675838522712021}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5220675838522712022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5220675838522712016}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.15248108, y: 0.8203125, z: -2.418213}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5220675838522712023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5220675838522712016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d2c9e5e2f7e8014fad82ab5b7d5eda2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RoundsToWin: 3
+  m_StartDelay: 3
+  m_EndDelay: 3
+  m_DynamicCamera: {fileID: 0}
+  m_MessageText: {fileID: 0}
+  matchOverUI: {fileID: 5220675838522712021}
+  m_PlayerPrefab: {fileID: 8388803304716511556, guid: 1dcb57618890a2f40abe75b9aad6c4df,
+    type: 3}
+  m_Players:
+  - m_PlayerColor: {r: 1, g: 0, b: 0.038354874, a: 1}
+    m_SpawnPoint: {fileID: 0}
+    m_PlayerNumber: 0
+    m_ColoredPlayerText: 
+    m_Instance: {fileID: 0}
+    m_Wins: 0
+    m_Movement: {fileID: 0}
+  - m_PlayerColor: {r: 0.12941177, g: 1, b: 0, a: 1}
+    m_SpawnPoint: {fileID: 0}
+    m_PlayerNumber: 0
+    m_ColoredPlayerText: 
+    m_Instance: {fileID: 0}
+    m_Wins: 0
+    m_Movement: {fileID: 0}
+--- !u!114 &5220675838522712021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5220675838522712016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd77dbf470c8d034aa6113ab54e8e10e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  matchOverUI: {fileID: 0}
+  playAgain: {fileID: 0}

@@ -1,0 +1,90 @@
+{
+    "name": "TestControls_Brackeys",
+    "maps": [
+        {
+            "name": "Test",
+            "id": "42a1aef1-e4d5-451e-ab6c-b8281902668a",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "b5c90955-0901-4b99-af37-770abbfbdd22",
+                    "expectedControlType": "Stick",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "c0c7992e-3ab8-4c24-aa11-6bca222b3aa6",
+                    "expectedControlType": "Stick",
+                    "processors": "StickDeadzone(max=0.98)",
+                    "interactions": ""
+                },
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "214b15b8-6fbd-49e5-989f-fb5f45a7ecbc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "c6fb46d0-b716-45ab-bdd6-079fd22d450a",
+                    "expectedControlType": "Button",
+                    "processors": "AxisDeadzone(max=0.95)",
+                    "interactions": "Press(pressPoint=1)"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6a82930b-57e0-47b7-9c20-de839fe2db11",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1d42ad30-afef-47b6-9d88-a8efbc1e78e4",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "StickDeadzone(max=0.98)",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ae987a31-2c4d-4659-827d-e0a5c1abdc12",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c61be6c4-4a7f-438b-8791-7bea0c338ec2",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "AxisDeadzone(max=0.95)",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
