@@ -5,6 +5,10 @@ using namespace std;
 
 typedef long long ll;
 
+/*
+ * See https://utah.kattis.com/problems/utah.numbertheory for problem details.
+ * Author: Andrew Thompson
+ */
 
 struct RSA{
   ll N;
