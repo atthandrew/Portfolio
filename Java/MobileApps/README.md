@@ -1,0 +1,1 @@
+Most code is found in the app/src/main/java/androidsamples/java folders, and the UI work is done in the app/src/main/res folders. Refer to the README found in the project folder for descriptions/walkthroughs of the project.
