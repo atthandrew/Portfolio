@@ -6,6 +6,11 @@
 #include <algorithm>
 using namespace std;
 
+/*
+ * See https://utah.kattis.com/problems/utah.rumormill for problem details.
+ * Author: Andrew Thompson
+ */
+
 map<string, int> dist;
 map<string, list<string> > graph;
 
