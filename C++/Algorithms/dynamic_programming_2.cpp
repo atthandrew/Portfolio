@@ -5,6 +5,11 @@ using namespace std;
 
 #define MAX_PEN 30000*30000
 
+/*
+ * See https://utah.kattis.com/problems/utah.rainbow for problem details.
+ * Author: Andrew Thompson
+ */
+
 //Finds penalty(i), the min penalty of driving to Emerald City from city i
 int penalty(int distance[], int i, int n, int cache[]){
 
