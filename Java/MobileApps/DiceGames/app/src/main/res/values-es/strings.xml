@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JuegosDeDados</string>
+    <string name="wallet_info">Haga clic en el dado para tirar.\n ¡Ganas 5 monedas cada vez que sacas un seis!\n Si sacas dos seises seguidos, ¡ganarás 10 monedas!\n Pero, si sacas cualquier otro número seguido, ¡pierdes 5 monedas!</string>
+    <string name="coins">Monedas</string>
+    <string name="zero">0</string>
+    <string name="wins_rolled">Seises tiradados</string>
+    <string name="total_rolls">Tiradas totales de dados</string>
+    <string name="dbl_wins">Seises dobles</string>
+    <string name="dbl_others">Otros dobles</string>
+    <string name="prev_roll">Tirada anterior</string>
+    <string name="blank">-</string>
+</resources>
