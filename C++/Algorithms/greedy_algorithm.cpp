@@ -6,6 +6,11 @@ using namespace std;
 typedef map<int, set<int, greater<int> >, greater<int> > mymap;
 typedef set<int, greater<int> > myset;
 
+/*
+ * See https://utah.kattis.com/problems/bank for problem details.
+ * Author: Andrew Thompson
+ */
+
 int main(int argc, char **argv){
   int N;
   int T;
